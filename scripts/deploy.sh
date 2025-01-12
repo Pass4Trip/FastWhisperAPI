@@ -5,7 +5,7 @@ VPS_HOST="vps-af24e24d.vps.ovh.net"
 VPS_IP="51.77.200.196"
 VPS_USER="ubuntu"
 REGISTRY_PORT="32000"
-LOCAL_PATH="/Users/vinh/Documents/fastWhisperAPI/FastWhisperAPI"
+LOCAL_PATH="/Users/vinh/Documents/fastWhisperAPI"
 
 # Couleurs pour les messages
 GREEN='\033[0;32m'

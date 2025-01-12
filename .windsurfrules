@@ -1,0 +1,4 @@
+- Utilise en solution de venv pour les dev sur mon Mac : UV donc si tu dois me proposer des pip installs, tu dois les faire avec uv pip install...
+- Pour te connecter au serveur vps-ovh, tu dois utiliser la commande ssh vps-ovh
+- Sur vps-ovh les installations sont faites avec microk8s.
+- Sur vps-ovh il n'y a pas de docker, il y a juste microk8s
